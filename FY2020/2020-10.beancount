@@ -1,0 +1,57 @@
+
+2020-10-01 * "Stripe Fee"
+    note: "DEBIT FOR  STRIPE           TRANSFER    CO REF- ST-D7Q3S2G3G7K0"
+    Income:Fees:Stripe                          0.28 USD
+    Assets:Azlo:Operations                     -0.28 USD
+
+2020-10-02 * "Stripe Fee"
+    note: "DEBIT FOR  STRIPE           TRANSFER    CO REF- ST-T6I0M3F0V4E7"
+    Income:Fees:Stripe                          0.02 USD
+    Assets:Azlo:Operations                     -0.02 USD
+
+2020-10-05 * "Stripe Income"
+    note: "CREDIT FOR STRIPE           TRANSFER    CO REF- ST-U1Y9U8U5E6T0"
+    Assets:Azlo:Operations                     22.05 USD
+    Assets:Stripe:Income                      -22.05 USD
+
+2020-10-09 * "Stripe Income"
+    note: "CREDIT FOR STRIPE           TRANSFER    CO REF- ST-R7X0Q8O6E0X1"
+    Assets:Azlo:Operations                     2.50 USD
+    Assets:Stripe:Income                      -2.50 USD
+
+2020-10-19 * "Plausible"
+    note: "Paddle.net* Plausible 808-1781535 Ny"
+    Expenses:Other:Services                    12.00 USD
+    Assets:Azlo:Operations                    -12.00 USD
+
+; Regular monthly Poeditor.com bill
+2020-10-20 * "Poeditor.com" 
+    note: "Poeditor.com Httpspoeditorin"
+    Expenses:Other:Services                    14.99 USD
+    Assets:Azlo:Operations                    -14.99 USD
+
+; Upgraded POEEditor plan, prorated for regular 44.99 USD fee minus already paid 14.99 USD
+2020-10-20 * "Poeditor.com" 
+    note: "Poeditor.com Httpspoeditorin"
+    Expenses:Other:Services                     30.00 USD
+    Assets:Azlo:Operations                     -30.00 USD
+
+2020-10-23 * "Stripe Income" 
+    note: "CREDIT FOR STRIPE           TRANSFER    CO REF- ST-B9T0G8O7K1E2"
+    Assets:Azlo:Operations                     23.97 USD
+    Assets:Stripe:Income                      -23.97 USD
+
+2020-10-26 * "Stripe Fee" 
+    note: "DEBIT FOR  STRIPE           TRANSFER    CO REF- ST-L1A3E2O6Y4T7"
+    Income:Fees:Stripe                          0.12 USD
+    Assets:Azlo:Operations                     -0.12 USD
+
+2020-10-29 * "Stripe Income" 
+    note: "CREDIT FOR STRIPE           TRANSFER    CO REF- ST-N4K1M0X5E1B2"
+    Assets:Azlo:Operations                      6.15 USD
+    Assets:Stripe:Income                       -6.15 USD
+
+2020-10-30 * "Stripe Income" 
+    note: "CREDIT FOR STRIPE           TRANSFER    CO REF- ST-E3P1I9V5W5U3"
+    Assets:Azlo:Operations                      2.05 USD
+    Assets:Stripe:Income                       -2.05 USD

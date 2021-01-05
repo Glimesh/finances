@@ -1,0 +1,78 @@
+
+2020-12-01 * "Stripe Income"
+    note: "CREDIT FOR STRIPE           TRANSFER    CO REF- ST-U1A1R1N6C8K0"
+    Assets:Azlo:Operations                      8.10 USD
+    Assets:Stripe:Income                       -8.10 USD
+    
+; TODO Look into this
+2020-12-04 * "Stripe Fee" 
+    note: "DEBIT FOR  STRIPE           TRANSFER    CO REF- ST-W9I1N3J5E6X9"
+    Income:Fees:Stripe                          9.54 USD
+    Assets:Azlo:Operations                     -9.54 USD
+
+2020-12-10 * "Stripe Income"
+    note: "CREDIT FOR STRIPE           TRANSFER    CO REF- ST-T9F1D8G5J1C1"
+    Assets:Azlo:Operations                      2.05 USD
+    Assets:Stripe:Income                       -2.05 USD
+    
+2020-12-14 * "Stripe Fee" 
+    note: "DEBIT FOR  STRIPE           TRANSFER    CO REF- ST-I2N3A9D7P3Y8"
+    Income:Fees:Stripe                          0.02 USD
+    Assets:Azlo:Operations                     -0.02 USD
+
+2020-12-15 * "Stripe Income"
+    note: "CREDIT FOR STRIPE           TRANSFER    CO REF- ST-V9M8J2S5P9A6"
+    Assets:Azlo:Operations                      23.85 USD
+    Assets:Stripe:Income                       -23.85 USD
+
+2020-12-16 * "Stripe Income"
+    note: "CREDIT FOR STRIPE           TRANSFER    CO REF- ST-P6W3T7U0J5L4"
+    Assets:Azlo:Operations                      2.03 USD
+    Assets:Stripe:Income                       -2.03 USD
+
+2020-12-17 * "Plausible"
+    note: "Paddle.net* Plausible Paddle.com Ny"
+    Expenses:Other:Services                    12.00 USD
+    Assets:Azlo:Operations                    -12.00 USD
+
+2020-12-21 * "Poeditor.com" 
+    note: "Poeditor.com Httpspoeditorin"
+    Expenses:Other:Services                    44.99 USD
+    Assets:Azlo:Operations                    -44.99 USD
+
+; Glimesh Funding through Stripe from Luke Strickland's account
+2020-12-15 * "Glimesh Funding & Stripe Income"
+    note: "CREDIT FOR STRIPE           TRANSFER    CO REF- ST-A2R6H7W0A1C6"
+    Assets:Azlo:Operations                      217.62 USD
+    Assets:Stripe:Income                       -17.62 USD
+    Equity:Owners:Luke-Strickland              -200.00 USD
+
+2020-12-24 * "Stripe Fee" 
+    note: "DEBIT FOR  STRIPE           TRANSFER    CO REF- ST-T1J9Z7U5J6E5"
+    Income:Fees:Stripe                          0.12 USD
+    Assets:Azlo:Operations                     -0.12 USD
+
+2020-12-28 * "Stripe Fee" 
+    note: "DEBIT FOR  STRIPE           TRANSFER    CO REF- ST-P2S7L6L9U5Y2"
+    Income:Fees:Stripe                          0.65 USD
+    Assets:Azlo:Operations                     -0.65 USD
+
+2020-12-21 * "Emailoctopus" 
+    note: "Emailoctopus London"
+    Expenses:Other:Services                     5.00 USD
+    Assets:Azlo:Operations                     -5.00 USD
+
+2020-12-29 * "Stripe Income"
+    note: "CREDIT FOR STRIPE           TRANSFER    CO REF- ST-V5W4J0H8Q7K3"
+    Assets:Azlo:Operations                      121.63 USD
+    Assets:Stripe:Income                       -121.63 USD
+
+2020-12-30 * "Stripe Income"
+    note: "CREDIT FOR STRIPE           TRANSFER    CO REF- ST-A9N7C7P0L2U5"
+    Assets:Azlo:Operations                      52.24 USD
+    Assets:Stripe:Income                       -52.24 USD
+
+2020-12-31 * "Stripe Income"
+    note: "CREDIT FOR STRIPE           TRANSFER    CO REF- ST-V1T2H2O2Z8C7"
+    Assets:Azlo:Operations                      23.72 USD
+    Assets:Stripe:Income                       -23.72 USD

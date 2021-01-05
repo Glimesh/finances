@@ -1,0 +1,18 @@
+2020-07-30 open Assets:Azlo:Operations USD
+2020-07-30 open Assets:Stripe:Income USD
+
+2020-07-30 open Expenses:Other:Services USD
+
+2020-07-30 open Equity:Owners:Luke-Strickland USD
+
+2020-07-30 open Income:Fees:Stripe USD
+
+2020-07-30 * "Opening Balance"
+	Assets:Azlo:Operations	100.00 USD
+	Equity:Owners:Luke-Strickland	-100.USD
+
+include "2020-08.beancount"
+include "2020-09.beancount"
+include "2020-10.beancount"
+include "2020-11.beancount"
+include "2020-12.beancount"
